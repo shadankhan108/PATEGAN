@@ -1,0 +1,4 @@
+TSTR Accuracy with MLP: 0.7219
+TSTR Accuracy with XGBoost: 0.5732
+TSTR Accuray  with Random Forest: 0.5381
+TSTR Accuracy with Logistic Regression: 0.6532
